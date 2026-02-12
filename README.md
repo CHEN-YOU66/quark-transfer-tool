@@ -502,7 +502,7 @@ https://pan.quark.cn/s/zzzzzzzzzz 提取码2
 **联系方式：**
 - QQ：2246618922
 - 邮箱：www229396@qq.com
--
+
 ---
 
 ## 常见问题
@@ -575,8 +575,8 @@ https://pan.quark.cn/s/zzzzzzzzzz 提取码2
 
 > **⚠️ 如果GitHub下载太慢、不稳定或无法下载，请使用夸克网盘下载**
 
-- **链接：** https://pan.quark.cn/s/d75a3723f6b7
-- **提取码：** XihS
+- **链接：** https://pan.quark.cn/s/2c0d1155a3ab
+- **提取码：** Dzbv
 - **说明：** 下载速度快，稳定可靠
 
 **💡 下载建议：**
@@ -608,7 +608,7 @@ https://pan.quark.cn/s/zzzzzzzzzz 提取码2
 
 ---
 
-**版本：** 2.0.0  
+**版本：** 2.0.0
 
 ---
 
