@@ -595,7 +595,7 @@ https://pan.quark.cn/s/zzzzzzzzzz 提取码2
 
 ### 官方渠道
 
-- **官网：** https://kuake.chenchangyou.lol/
+- **官网：** https://kuake.chenchangyou.lol
 - **微信公众号：** 夸克转存工具
 - **抖音号：** @夸克转存工具
 - **B站：** @夸克转存工具官方
@@ -613,4 +613,5 @@ https://pan.quark.cn/s/zzzzzzzzzz 提取码2
 ---
 
 *让转存更简单，让工作更高效！*
+
 
